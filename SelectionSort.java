@@ -13,7 +13,7 @@ public class SelectionSort{
         //
         
         //create the dataset using RNG
-        int[] a10 = new int[100];
+        int[] a10 = new int[11];
         System.out.println("\n \n \n The Unsorted Data: \n \n \n");
         for(int i = 0; i < a10.length; i++){
             a10[i] = getrnd10000();
@@ -42,7 +42,7 @@ public class SelectionSort{
         //
         
         //create the dataset using RNG
-        int[] a1h = new int[100];
+        int[] a1h = new int[101];
         System.out.println("\n \n \n The Unsorted Data: \n \n \n");
         for(int i = 0; i < a1h.length; i++){
             a1h[i] = getrnd10000();
@@ -72,7 +72,7 @@ public class SelectionSort{
         //
         
         //create the dataset using RNG
-        int[] a1k = new int[1000];
+        int[] a1k = new int[1001];
         System.out.println("\n \n \n The Unsorted Data: \n \n \n");
         for(int i = 0; i < a1k.length; i++){
             a1k[i] = getrnd10000();
@@ -102,7 +102,7 @@ public class SelectionSort{
         //
         
         //create the dataset using RNG
-        int[] a10k = new int[10000];
+        int[] a10k = new int[10001];
         System.out.println("\n \n \n The Unsorted Data: \n \n \n");
         for(int i = 0; i < a10k.length; i++){
             a10k[i] = getrnd10000();
