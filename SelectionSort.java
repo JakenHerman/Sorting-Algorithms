@@ -6,8 +6,7 @@ public class SelectionSort{
       
         //
         //
-        //
-        //  TEST FOR ARRAY LENGTH OF 100
+        //  TEST FOR ARRAY LENGTH OF 10
         //
         //
         //
